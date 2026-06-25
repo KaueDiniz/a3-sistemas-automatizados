@@ -43,9 +43,9 @@
   ## Entregáveis
 
   - [x] Repositório GitHub
-  - [ ] Relatório técnico (PDF)
+  - [x] Relatório técnico (PDF)
   - [ ] Apresentação em slides (PPTX)
-  - [ ] Simulação no PLC Fiddle
+  - [x] Simulação no PLC Fiddle
 
 ## Simulação
 
