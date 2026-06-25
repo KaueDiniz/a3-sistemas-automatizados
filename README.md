@@ -44,7 +44,7 @@
 
   - [x] Repositório GitHub
   - [x] Relatório técnico (PDF)
-  - [ ] Apresentação em slides (PPTX)
+  - [x] Apresentação em slides (PPTX)
   - [x] Simulação no PLC Fiddle
 
 ## Simulação
