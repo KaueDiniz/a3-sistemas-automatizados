@@ -47,6 +47,11 @@
   - [ ] Apresentação em slides (PPTX)
   - [ ] Simulação no PLC Fiddle
 
+## Simulação
+
+A lógica Ladder completa pode ser testada ao vivo no PLC Fiddle:
+🔗 **[Abrir simulação](https://www.plcfiddle.com/fiddles/4c5b9150-3a33-47d7-8011-9ba8750eeeb1)**
+
   ---
 
   © 2026 — Kauê Melo Diniz | USJT
