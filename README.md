@@ -29,13 +29,32 @@ Desenvolvimento e simulação de um sistema automatizado para controle de portã
 
 ---
 
-## Arquivos do Repositório
+## Conteúdo do Repositório
+
+### Projeto
 
 | Arquivo | Descrição |
 |---------|-----------|
 | [Relatorio_A3_Portao_Garagem_ABNT.pdf](Relatorio_A3_Portao_Garagem_ABNT.pdf) | Relatório técnico completo (padrão ABNT) |
 | [Apresentacao_A3_Portao_Garagem.pptx](Apresentacao_A3_Portao_Garagem.pptx) | Apresentação em slides |
-| [README.md](README.md) | Este arquivo |
+
+### Atividades Semanais
+
+Resumos individuais (sala de aula invertida), na pasta [`Atividades_Semanais_A3/`](Atividades_Semanais_A3):
+
+| Atividade | Tema |
+|-----------|------|
+| [TP01](Atividades_Semanais_A3/TP01-Resumo-KaueMeloDiniz.pdf) | Introdução aos sistemas automatizados |
+| [TP02](Atividades_Semanais_A3/TP02-Resumo-KaueMeloDiniz.pdf) | Sensores e transdutores |
+| [TP03](Atividades_Semanais_A3/TP03-Resumo-KaueMeloDiniz.pdf) | Sinais e dispositivos digitais e analógicos |
+| [TP04](Atividades_Semanais_A3/TP04-Resumo-KaueMeloDiniz.pdf) | Estudo de processos e suas variáveis |
+| [TP05](Atividades_Semanais_A3/TP05-Resumo-KaueMeloDiniz.pdf) | Modelagem de sistemas a eventos discretos |
+| [TP06](Atividades_Semanais_A3/TP06-Resumo-KaueMeloDiniz.pdf) | Autômatos de estado finito |
+| [TP07](Atividades_Semanais_A3/TP07-Resumo-KaueMeloDiniz.pdf) | CLP: arquitetura e ciclo de varredura |
+| [TP08](Atividades_Semanais_A3/TP08-Resumo-KaueMeloDiniz.pdf) | Linguagem Ladder e IEC 61131-3 |
+| [TP09](Atividades_Semanais_A3/TP09-Resumo-KaueMeloDiniz.pdf) | Temporizadores, contadores e blocos funcionais |
+| [TP10](Atividades_Semanais_A3/TP10-Resumo-KaueMeloDiniz.pdf) | Controle supervisório: SCADA e IHM |
+| [TP11](Atividades_Semanais_A3/TP11-Resumo-KaueMeloDiniz.pdf) | Redes industriais e protocolos de IoT |
 
 ---
 
@@ -45,6 +64,7 @@ Desenvolvimento e simulação de um sistema automatizado para controle de portã
 - [x] Relatório técnico (PDF)
 - [x] Apresentação em slides (PPTX)
 - [x] Simulação no PLC Fiddle
+- [x] Atividades semanais (TP01 a TP11)
 
 ---
 
